@@ -9,7 +9,7 @@
 ### Selection of object
 ![](images/Selection.png)
 
-### Move Placed objects in the scene with option (which can be enabled/desabled grid snap)
+### Move Placed objects in the scene with option (which can be enabled/disabled grid snap)
 ![](images/MovePlacedObjects.gif)
 
 ### Change Materials of placed objects
@@ -29,7 +29,7 @@ Selected object opens material panel automatically
 
 ## Additional Features
 
-### Moveable objects collision detection. If object is released while colliding, it returns in place from which it was draged of.
+### Moveable objects collision detection. If an object is released while colliding, it returns in place from which it was dragged off.
 ![](images/Collisions.gif)
 
 ### Rotate selected object (it can be saved with save design)
@@ -38,6 +38,6 @@ Selected object opens material panel automatically
 ### Change room dimensions (it can be saved with save design)
 ![](images/RoomDim.gif)
 
-### Change room meterial (it can be saved with save design)
+### Change room material (it can be saved with save design)
 ![](images/RoomMat.gif)
 

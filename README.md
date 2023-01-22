@@ -6,11 +6,17 @@
 ### Place Three types of objects into scene
 ![](images/PlaceThreeTypesObjects.gif)
 
+### Selection of object
+![](images/Selection.png)
+
 ### Move Placed objects in the scene with option (which can be enabled/desabled grid snap)
 ![](images/MovePlacedObjects.gif)
 
 ### Change Materials of placed objects
 ![](images/ChangeMaterials.gif)
+
+Selected object opens material panel automatically
+![](images/SelectionMat.png)
 
 ### Delete placed objects [Delete button]
 ![](images/Delete.gif)

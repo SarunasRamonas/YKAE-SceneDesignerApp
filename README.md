@@ -1,5 +1,3 @@
-<img src="https://images.icon-icons.com/1537/PNG/512/1562687-code-computer-creative-html-process-technology-web-development_107058.png" width="100" alt="Project Icon">
-
 # YKAE-SceneDesignerApp
  
 ![](images/MainScreenshot.png)
